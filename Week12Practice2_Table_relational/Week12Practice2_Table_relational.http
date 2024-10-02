@@ -1,0 +1,6 @@
+@Week12Practice2_Table_relational_HostAddress = http://localhost:5052
+
+GET {{Week12Practice2_Table_relational_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
